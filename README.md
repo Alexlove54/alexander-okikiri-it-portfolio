@@ -6,7 +6,7 @@ I work with school assessment records, Excel reporting and digital systems at Fe
 
 ## Student results dashboard
 
-An Excel dashboard prepared from July-August 2026 class broadsheets summarises 41 classes and 1,835 student records across JSS1, JSS2, SS1 and SS2. It groups class averages and student counts by level and flags 12 classes whose recorded lowest average is zero for source review.
+An Excel dashboard prepared from July-August 2026 class broadsheets summarises 41 classes and 1,835 student records across JSS1, JSS2, SS1 and SS2. It groups class averages and student counts by level.
 
 The figures require a final check against the source records before the workbook is shared. This public page does not include student-level records or the underlying school files.
 
